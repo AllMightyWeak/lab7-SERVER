@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by AllMightyWeak
 
 #include <stdexcept>
 #include <gtest/gtest.h>

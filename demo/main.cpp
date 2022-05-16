@@ -1,6 +1,6 @@
-// Copyright by Enigma 2022
+// Copyright by AllMightyWeak
 
-// cd CLionProjects/lab_07/cmake-build-debug/
+// cd CLionProjects/lab7/cmake-build-debug/
 // ./demo 127.0.0.1 8080 /
 // curl  -H 'Content-Type: application/json' --data '{"input":"hel"}' http://localhost/v1/api/suggest
 

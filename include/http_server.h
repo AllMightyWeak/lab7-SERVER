@@ -1,5 +1,4 @@
-
-// Copyright by Enigma
+// Copyright by AllMightyWeak
 
 #ifndef INCLUDE_HTTP_SERVER_HPP_
 #define INCLUDE_HTTP_SERVER_HPP_
